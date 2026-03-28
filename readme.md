@@ -2,6 +2,8 @@
 
 Aplicação Full Stack simulando um banco digital com autenticação JWT, gestão de conta e movimentações financeiras (depósito, saque e transferência).
 
+<img border="0" data-original-height="1080" data-original-width="1920" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfn28Gq-4Pl_kIN-viI9Etx00WZkkuRjL43c5ee7RCVJMDt5GqNPPrJx9vLOrg9Km184qL_3dEThmsw6hidXU9bxHF0xmsKD_FAAdDPDDfVcked23LNy806-WUrjT-spvl4G3xNzH-9VnnMLLQIsHzz47ZCLd-fSzhpDWggZ5p6igNfmORl4-43gi_HkXk/s1920/2.jpg" width="1280" />
+
 ## Stack utilizada
 
 ### Backend
