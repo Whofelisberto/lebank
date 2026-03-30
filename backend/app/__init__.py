@@ -21,7 +21,7 @@ def create_app() -> Flask:
 
     jwt = JWTManager(app)
 
-    CORS(app, supports_credentials=True, origins=["http://localhost:5173"], allow_headers=["Content-type", "Authorization"])
+    CORS(app, supports_credentials=True, origins=["http://localhost:5173", "http://187.77.253.129:5173"], allow_headers=["Content-type", "Authorization"])
 
     @jwt.token_in_blocklist_loader
     def check_if_token_is_revoked(_jwt_header, jwt_payload):
